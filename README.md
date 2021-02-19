@@ -1,2 +1,4 @@
 # ARSWEB
-front-end landing page
+ The final project is in master branch :)
+ ignore main branch 
+ 
